@@ -1,0 +1,6 @@
+config.json
+*.jpeg
+*.png
+fonts
+fonts/*
+.catimg
